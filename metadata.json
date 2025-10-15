@@ -1,0 +1,7 @@
+{
+  "name": "AstraLive2D - Intelligent Digital Companion",
+  "description": "AstraLive2D is a revolutionary AI-driven real-time interactive application designed to provide users with an immersive voice conversation experience through a realistic 2D digital character.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
